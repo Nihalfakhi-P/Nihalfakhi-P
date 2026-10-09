@@ -82,10 +82,6 @@ class NihalFakhi:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nihalfakhi-P&bg_color=0C0C0C&color=D7E2EA&line=B600A8&point=FFFFFF&area=true&area_color=7621b0&hide_border=true&custom_title=Contribution%20graph" alt="Activity graph" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Nihalfakhi-P/Nihalfakhi-P/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
 </p>
 
