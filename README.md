@@ -9,9 +9,7 @@
 <p align="center">
   <a href="https://nihal-fakhi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0C0C0C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/nihal-fakhi-0a4b89210"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20SWE%20roles-b600a8?style=for-the-badge" alt="Open to roles"/>
-  <img src="https://komarev.com/ghpvc/?username=Nihalfakhi-P&style=for-the-badge&color=7621b0&label=Profile+views" alt="Profile views"/>
-</p>
+  <img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20SWE%20roles-b600a8?style=for-the-badge" alt="Open to roles"/></p>
 
 ---
 
@@ -43,7 +41,7 @@ class NihalFakhi:
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,ts,react,aws,docker,jenkins,linux,bash,git,githubactions,vercel&theme=dark&perline=13" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,ts,react,nextjs,redis,aws,docker,jenkins,linux,bash,git,githubactions,vercel&theme=dark&perline=15" alt="Tech stack"/>
 </p>
 
 <p align="center">
@@ -61,7 +59,25 @@ class NihalFakhi:
 
 ---
 
-### 🚀 Featured work
+### 🔭 Currently building
+
+- **[receptionist-agent](https://github.com/Nihalfakhi-P/receptionist-agent)**: an AI voice receptionist that answers real phone calls. Every answer is grounded in live, owner-editable business data, and live numbers come from tool calls during the call.
+
+---
+
+### 🌐 Open source
+
+<a href="https://github.com/Nihalfakhi-P/receptionist-agent">
+  <img src="https://img.shields.io/badge/receptionist--agent-AI_voice_receptionist-b600a8?style=for-the-badge&logo=github&logoColor=white" alt="receptionist-agent"/>
+</a>
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[receptionist-agent](https://github.com/Nihalfakhi-P/receptionist-agent)** | Vapi voice agent with a Next.js webhook backend. The prompt is rebuilt from live data on every call, the agent checks availability through a tool, and the backend has a guardrailed prompt, an owner dashboard, fail-closed auth, tests and CI. | TypeScript · Next.js · Vapi · GPT-4o · Deepgram · Upstash Redis |
+
+---
+
+### 🚀 Enterprise work
 
 | Project | What it does | Stack |
 |---|---|---|
