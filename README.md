@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7621b0,100:b600a8&height=200&section=header&text=Nihal%20Fakhi&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Python%20Developer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Enterprise%20Automation&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="./assets/header.svg" alt="Nihal Fakhi — AI & Python Developer" width="100%"/>
 
 <p align="center">
   <a href="https://nihal-fakhi-portfolio.vercel.app/">
@@ -98,4 +98,4 @@ class NihalFakhi:
   <a href="https://nihal-fakhi-portfolio.vercel.app/">nihal-fakhi-portfolio.vercel.app</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b600a8,100:7621b0&height=110&section=footer" width="100%"/>
+<img src="./assets/footer.svg" alt="" width="100%"/>
