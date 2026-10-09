@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" alt="Nihal Fakhi — AI & Python Developer" width="100%"/>
+<img src="./assets/banner-top.svg" alt="Nihal Fakhi — AI & Python Developer" width="100%"/>
 
 <p align="center">
   <a href="https://nihal-fakhi-portfolio.vercel.app/">
@@ -98,4 +98,4 @@ class NihalFakhi:
   <a href="https://nihal-fakhi-portfolio.vercel.app/">nihal-fakhi-portfolio.vercel.app</a>
 </p>
 
-<img src="./assets/footer.svg" alt="" width="100%"/>
+<img src="./assets/banner-bottom.svg" alt="" width="100%"/>
