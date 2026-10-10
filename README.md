@@ -61,18 +61,23 @@ class NihalFakhi:
 
 ### 🔭 Currently building
 
+- **[local-rag-kit](https://github.com/Nihalfakhi-P/local-rag-kit)**: private, fully local RAG with hybrid retrieval (dense + BM25), cited answers, grounding guardrails and an evaluation harness. Next on the roadmap: streaming answers and cross-encoder re-ranking.
 - **[receptionist-agent](https://github.com/Nihalfakhi-P/receptionist-agent)**: an AI voice receptionist that answers real phone calls. Every answer is grounded in live, owner-editable business data, and live numbers come from tool calls during the call.
 
 ---
 
 ### 🌐 Open source
 
+<a href="https://github.com/Nihalfakhi-P/local-rag-kit">
+  <img src="https://img.shields.io/badge/local--rag--kit-private_local_RAG-7621b0?style=for-the-badge&logo=github&logoColor=white" alt="local-rag-kit"/>
+</a>
 <a href="https://github.com/Nihalfakhi-P/receptionist-agent">
   <img src="https://img.shields.io/badge/receptionist--agent-AI_voice_receptionist-b600a8?style=for-the-badge&logo=github&logoColor=white" alt="receptionist-agent"/>
 </a>
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[local-rag-kit](https://github.com/Nihalfakhi-P/local-rag-kit)** | RAG service that runs entirely on your machine. It combines dense and BM25 retrieval with Reciprocal Rank Fusion, refuses when the context is too weak, validates every citation, resists prompt injection from documents, and measures itself with an eval harness (hit rate, MRR, refusal accuracy). 52 tests, 96% coverage. | Python · FastAPI · Ollama · ChromaDB · BM25 |
 | **[receptionist-agent](https://github.com/Nihalfakhi-P/receptionist-agent)** | Vapi voice agent with a Next.js webhook backend. The prompt is rebuilt from live data on every call, the agent checks availability through a tool, and the backend has a guardrailed prompt, an owner dashboard, fail-closed auth, tests and CI. | TypeScript · Next.js · Vapi · GPT-4o · Deepgram · Upstash Redis |
 
 ---
