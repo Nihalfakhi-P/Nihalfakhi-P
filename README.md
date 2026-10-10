@@ -77,7 +77,7 @@ class NihalFakhi:
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[local-rag-kit](https://github.com/Nihalfakhi-P/local-rag-kit)** | RAG service that runs entirely on your machine. It combines dense and BM25 retrieval with Reciprocal Rank Fusion, refuses when the context is too weak, validates every citation, resists prompt injection from documents, and measures itself with an eval harness (hit rate, MRR, refusal accuracy). 52 tests, 96% coverage. | Python · FastAPI · Ollama · ChromaDB · BM25 |
+| **[local-rag-kit](https://github.com/Nihalfakhi-P/local-rag-kit)** | RAG service that runs entirely on your machine. It combines dense and BM25 retrieval with Reciprocal Rank Fusion, refuses when the context is too weak, validates every citation, resists prompt injection from documents, and measures itself with an eval harness. With llama3.2 it answered every test question correctly and refused every off-topic one. 54 tests, 96% coverage. | Python · FastAPI · Ollama · ChromaDB · BM25 |
 | **[receptionist-agent](https://github.com/Nihalfakhi-P/receptionist-agent)** | Vapi voice agent with a Next.js webhook backend. The prompt is rebuilt from live data on every call, the agent checks availability through a tool, and the backend has a guardrailed prompt, an owner dashboard, fail-closed auth, tests and CI. | TypeScript · Next.js · Vapi · GPT-4o · Deepgram · Upstash Redis |
 
 ---
